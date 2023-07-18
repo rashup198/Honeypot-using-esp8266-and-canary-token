@@ -103,7 +103,4 @@ void loop() {
 }
 
 
-Simulation Result:
-
-
  
