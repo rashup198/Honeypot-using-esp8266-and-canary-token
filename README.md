@@ -39,3 +39,12 @@ Step 7: Design Defenses: Insights from learning about attackers' behavior can he
 ![image](https://github.com/rashup198/Honeypot-using-esp8266-and-canary-token/assets/88549100/0925aada-9d0b-46cf-a4db-3e615c6a4fdb)
 
 
+Details about the attacker
+![image](https://github.com/rashup198/Honeypot-using-esp8266-and-canary-token/assets/88549100/693c81a4-2071-4399-a695-1b66c5d7a765)
+
+Location of the attacker
+![image](https://github.com/rashup198/Honeypot-using-esp8266-and-canary-token/assets/88549100/d9155cb3-07a3-4086-8c09-94a88c0934b0)
+
+
+
+
